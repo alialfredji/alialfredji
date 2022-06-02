@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali alfredji</h1>
+<h1 align="center">Hi 👋, I'm Ali Alfredji</h1>
 <h3 align="center">Entrepreneur with passion for knowledge & technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alialfredji&label=Profile%20views&color=0e75b6&style=flat" alt="alialfredji" /> </p>
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **alfredjiali@gmail.com**
 
-- ⚡ Fun fact **I love sports**
+- ⚡ Hobby: **I love sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
