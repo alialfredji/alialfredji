@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali Alfredji</h1>
 <h3 align="center">Entrepreneur with passion for knowledge & technologies</h3>
 
+<a href="https://app.daily.dev/alialfredji"><img src="https://api.daily.dev/devcards/bc1a6fd259af4a70b7789b4b344a92de.png?r=92m" width="400" alt="Ali Alfredji's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alialfredji&label=Profile%20views&color=0e75b6&style=flat" alt="alialfredji" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alialfredji" alt="alialfredji" /></a> </p>
