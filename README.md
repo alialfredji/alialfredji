@@ -13,7 +13,6 @@
 <a href="https://linkedin.com/in/ali-alfredji-702a09102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-alfredji-702a09102" height="30" width="40" /></a>
 <a href="https://fb.com/ali.alfredji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali.alfredji" height="30" width="40" /></a>
 <a href="https://instagram.com/alialfredji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alialfredji" height="30" width="40" /></a>
-<a href="https://medium.com/@alialfredji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alialfredji" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
