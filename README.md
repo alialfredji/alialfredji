@@ -2,8 +2,8 @@
 <h3 align="center">Entrepreneur with passion for knowledge & technologies</h3>
 
 - 🔭 I’m currently working on **Mysocial**
-- 🌱 I’m currently learning **Prompt Engineering**
-- 💬 Ask me about **React, Javascript, Docker, DevOps**
+- 🌱 I’m currently learning **Terraform** & **Golang**
+- 💬 Ask me about **React, Javascript, Docker, SQL**
 - 📫 How to reach me **alfredjiali@gmail.com**
 - ⚡ Hobby: **I love sports**
 
