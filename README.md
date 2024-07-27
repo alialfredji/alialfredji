@@ -1,5 +1,5 @@
 <h2>👋 Hello, I'm Ali Alfredji!</h2>
-<p>🔧 <strong>Lead Software Engineer & Cloud/Data Engineer</strong> with over 9 years of experience in the software industry. I specialize in crafting innovative solutions, leading agile teams, and mastering a diverse set of technologies. Passionate about mentoring and continuous learning.</p>
+<p>🔧 Tech professional with over 9 years of experience in the software industry. I specialize in crafting innovative solutions, leading agile teams, and mastering a diverse set of technologies. Passionate about mentoring and continuous learning.</p>
 <p>🌱 <strong>Personal</strong>: Dedicated to leveraging technology to create impactful, user-centric solutions. Outside of tech, I'm an avid nature enthusiast and enjoy spending quality time with my family.</p>
 <h3>🌟 Highlights:</h3>
 <ul>
