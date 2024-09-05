@@ -11,7 +11,7 @@
     <li>👨‍🏫 Mentored junior and mid-level developers through pair programming and code reviews.</li>
 </ul>
 <h3>🛠 Tech Stack:</h3>
-<p><strong>Languages & Frameworks:</strong> avaScript, Node.js, Python, React.js, Express.js, GraphQL, FastAPI, HTML/CSS</p>
+<p><strong>Languages & Frameworks:</strong> JavaScript, Typescript, Node.js, Python, React.js, Express.js, GraphQL, FastAPI </p>
 <p><strong>Data & Storage:</strong> PostgreSQL, MongoDB, Redis, Snowflake, ElasticSearch, Neo4j</p>
 <p><strong>DevOps & Tools:</strong> Docker, AWS, GCP, Terraform, Kubernetes, Git/Github, GitOps, CI/CD (Github Actions, CircleCI, Bitbucket Pipelines)</p>
 <p><strong>Development Practices:</strong> Fullstack Development, Data Engineering, Test-Driven Development, Microservices, Cloud Architecture, Containerization, Infrastructure as Code, Version Control, Agile Methodologies</p>
