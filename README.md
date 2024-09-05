@@ -3,7 +3,7 @@
 <p>🌱 <strong>Personal</strong>: Dedicated to leveraging technology to create impactful, user-centric solutions. Outside of tech, I'm an avid nature enthusiast and enjoy spending quality time with my family.</p>
 <h3>🌟 Highlights:</h3>
 <ul>
-    <li>🚀 Led the development of <strong><a href="https://mysocial.io">Mysocial</a></strong>, a social media tech solution with 50k+ users.</li>
+    <li>🚀 Led the development of <strong><a href="https://mysocial.io">Mysocial</a></strong>, a social media tech solution with 100k+ users.</li>
     <li>📈 Improved data processing and reliability as a Senior Cloud/Data Engineer at <strong><a href="https://moodagent.com">Moodagent</a></strong>.</li>
     <li>🚗 Pioneered a real-time car-sharing infrastructure at <strong>Passenger One AB</strong>.</li>
     <li>📸 Developed an advanced Image & Video API for seamless media management at Mysocial.</li>
