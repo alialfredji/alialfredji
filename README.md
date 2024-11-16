@@ -17,7 +17,7 @@
 <p><strong>Development Practices:</strong> Fullstack Development, Data Engineering, Test-Driven Development, Microservices, Cloud Architecture, Containerization, Infrastructure as Code, Version Control, Agile Methodologies</p>
 <h3>🔗 Connect with me:</h3>
 <ul>
-    <li>📧 <a href="mailto:alfredjiali@gmail.com">Email</a></li>
+    <li>📧 <a href="mailto:ali@alfredji.com">Email</a></li>
     <li>🌐 <a href="https://linkedin.com/in/alialfredji">LinkedIn</a></li>
     <li>📂 <a href="https://github.com/alialfredji">GitHub</a></li>
 </ul>
