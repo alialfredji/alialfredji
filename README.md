@@ -1,1 +1,1 @@
-Senior Software Engineer/Architect with 10+ years in tech.
+Senior Software Engineer with 10+ years in tech.
